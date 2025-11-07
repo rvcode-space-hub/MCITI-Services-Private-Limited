@@ -1,4 +1,4 @@
-# 🏦 Wallet Transaction Engine
+# 🏦  Transaction Engine
 
 A production-ready backend module for **digital wallet transactions** — built with **Node.js**, **Express**, **Sequelize**, and **MySQL**.  
 It supports **secure fund transfers**, **charges**, **commissions**, and **transaction logging**, all within atomic database transactions.
